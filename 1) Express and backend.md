@@ -12,3 +12,9 @@ can handle many requests at once without slowing down.
 
 <h2>What is HTTP?</h2>
 <p><b>Protocol</b> defined for machines to communicate mostly for websites bero. Ex-> Frontend talk to backend</p>
+
+<h3>What is DNS?</h3>
+<p>think of DNS (Domain Name System) like the phonebook of the internet.
+When you type a website’s name, like www.google.com, your computer doesn’t actually understand names — it understands numbers called 
+IP addresses (like 142.250.182.206). DNS takes the website name you type and translates it into the right IP address so your computer 
+can find and connect to that website.In short: DNS makes it easy for us to use website names instead of remembering long numbers.</p>
